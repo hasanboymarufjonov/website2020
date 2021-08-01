@@ -1,0 +1,116 @@
+body, h1 {
+    margin:0;
+    
+}
+.bottom{
+    margin-top: 150px; 
+}
+
+
+
+
+.container {
+    
+     
+           width: 70%;
+    margin: 0 auto;
+        
+        }
+
+.box_1 {
+    
+
+    background-color: #555555;
+   /* padding-top20px;
+    padding-right: 25px;
+    padding-bottom: 30px;
+    padding-left: 35px;
+    */
+     padding: 20px 30px;
+    margin-top: 30px;
+    border: 3px solid red;
+}
+
+.box_1 h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-family: sans-serif;
+    color: white;
+
+    
+}
+
+.box_1 p {
+    
+    color:white;
+}
+        
+
+
+.box_2{
+    margin-top: 30px;
+ border: 3px dashed #555;   
+padding: 20px;    
+}
+
+.box_2 h1, box_2 p{
+    color: #111
+    
+}
+
+.button {
+    background-color: #222;
+    color: #fff;
+    font-size: 18px;
+    border: 1px silid #222;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+.button:hover{
+    cursor: pointer;
+    background-color: #fff;
+    color:#222;
+    
+}
+.box_3 {
+    margin: 30px 0;
+    border: 1px solid #555;
+    padding: 20px;
+}
+
+.box_3 h1 {
+    text-align:center;
+    color: #555;
+    font-family: sans-serif;
+    
+}
+
+
+.Categories{
+    padding: 0;
+}
+.Categories li{
+    list-style-type: none;
+    padding: 5px 0;
+    border-bottom: 1px solid #555
+}
+
+
+.myform{
+    
+    
+    
+}
+ 
+.myform label {
+    display: block;
+    font-size: 20px;
+    color: #555
+}
+
+
+.myform input, .myform textarea {
+   margin: 8px 0;
+    padding: 5px;
+    width: 100%;
+}
